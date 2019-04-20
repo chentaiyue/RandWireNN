@@ -12,7 +12,7 @@ numpy 1.13.3
 
 
 ## acknowledge
-This code is inspired from seungwonpark.[](https://github.com/seungwonpark/RandWireNN)
+This code is inspired from seungwonpark.[address](https://github.com/seungwonpark/RandWireNN)
 
 ## License
 All materials in this repository are released under the  Apache License 2.0.
