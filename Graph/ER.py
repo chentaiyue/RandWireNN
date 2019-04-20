@@ -8,6 +8,8 @@ the lower index node to the higher index node.
 
 import numpy as np
 from Graph.shuffle import shuffle
+
+
 def er(nodes,prob):
 	
 	rand_matrix = np.random.uniform(0.0,1.0,size=(nodes,nodes))
